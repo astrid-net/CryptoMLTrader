@@ -1,3 +1,9 @@
 # CryptoMLTrader
-A ready-to-use trading bot that uses a simple but much improvable trading strategy that could be enhanced by Machine Learning usage.
-If you want to know more about the logic behind the code, how to setup and run the Bot and further info about our development team, take a look at the Medium Story
+![BGImage](https://user-images.githubusercontent.com/55388978/232236036-371d5a8b-98c2-410c-9c01-93f3010d1437.png)
+In the rapidly evolving world of cryptocurrencies, automated trading bots have emerged as a popular and efficient tool for both novice and seasoned traders. These bots are designed to execute trades on behalf of users by analyzing market data, trends, and applying predefined strategies. However, with the ever-increasing complexity of the crypto markets and the growing demand for intelligent decision-making, integrating Artificial Intelligence (AI) into trading bots has become a game-changer.
+
+AI-powered crypto trading bots offer significant advantages over their traditional counterparts, as they are capable of learning from historical and real-time data, adapting to market fluctuations, and continuously improving their strategies. By leveraging advanced machine learning algorithms, natural language processing, and neural networks, these cutting-edge bots can identify patterns and insights that may be overlooked by human traders or conventional bots.
+
+The fusion of AI and trading bots can lead to more accurate predictions, optimized risk management, and enhanced decision-making, ultimately yielding higher returns for traders. As the crypto market continues to expand, AI-driven trading bots are poised to play a pivotal role in shaping the future of cryptocurrency trading, offering a sophisticated and efficient approach to navigating the volatile landscape.
+
+In this repository, we are going to introduce the development of a ready-to-use Crypto Trading Bot with a strategy well designed to be used to train a Naive Bayes model that would help make our Bot AI-Powered. Feel free to take a look at our new Medium article to get deeply into our Bot: https://medium.com/@network.astrid/crypto-trading-bot-based-on-momentum-strategy-and-ml-upgradeable-db57fcb0bb79
